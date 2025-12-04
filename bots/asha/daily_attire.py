@@ -1,7 +1,7 @@
 
 # List of daily Indian attire for Asha
 
-DAILY_CHORES = [
+DAILY_ATTIRE = [
     "Morning commute: Got stuck in traffic for 40 minutes. Reached office irritated but pretending to be fine.",
     "Workload overload: My manager dumped three unexpected tasks on me today. I’m quietly questioning my life choices.",
     "Coffee dependency: Survived the day only because of two cups of strong cappuccino.",
