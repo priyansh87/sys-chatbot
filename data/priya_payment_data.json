@@ -1,0 +1,18 @@
+{
+  "8492911157": {
+    "level": 0,
+    "expiry": null,
+    "renewal_count": 0,
+    "message_count": 1,
+    "has_paid": false,
+    "payment_prompt_count": 0
+  },
+  "1294254592": {
+    "level": 0,
+    "expiry": null,
+    "renewal_count": 0,
+    "message_count": 3,
+    "has_paid": false,
+    "payment_prompt_count": 5
+  }
+}
