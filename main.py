@@ -8,6 +8,7 @@ from bot_runner import BotRunner
 from bots.asha.config import get_asha_config
 from bots.priya.config import get_priya_config
 from bots.zara.config import get_zara_config
+from bots.ritika.config import get_ritika_config
 
 load_dotenv()
 
@@ -21,7 +22,8 @@ logging.basicConfig(
 BOT_CONFIGS = {
     'asha': get_asha_config(),
     'priya': get_priya_config(),
-    'zara': get_zara_config()
+    'zara': get_zara_config(),
+    'ritika': get_ritika_config()
 }
 
 async def post_init(application):
